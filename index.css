@@ -39,6 +39,18 @@ footer div {
     width: 260px
 }
 
+.gif2 {
+    height: 160px;
+    width: 220px;
+    margin: 15px;
+}
+
+.gif4 {
+    height: 220px;
+    width: 280px;
+    margin: 5px;
+}
+
 img {
     border-radius: 30px;
 }
